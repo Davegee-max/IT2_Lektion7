@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+$PRODUCT_WORKSPACE_FILE$
+.gitignore
+misc.xml
+modules.xml
+.idea/vcs.xml
+IT2_Lektion7.iml
+src/
