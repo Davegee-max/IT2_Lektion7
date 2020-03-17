@@ -9,6 +9,7 @@ public class EKGObserverPatternTester implements EKGListener {
         SimSampler sampler = new SimSampler();
         new Thread(sampler).start();
         sampler.registerObserver(listener);
+
     }
 
     @Override
